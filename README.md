@@ -1,2 +1,2 @@
 # getnextline_42
-our own getnextline
+our own implementation of printf
